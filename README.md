@@ -52,7 +52,7 @@ Diversifying Our Garden Design: We chose a lemon garden for its soothing effects
 
 Incorporating User Feedback Early On: We were pretty happy with our design and idea, but looking back, gathering early feedback from classmates could have given us valuable insights and possibly new ideas to enhance the user experience.
 
-Playing with Lighting Effects: Our garden had a consistent sunny atmosphere. Adjusting lighting to reflect different times of day – like dawn or dusk – might have made the environment more dynamic and engaging.
+Playing with Visuals: Our garden had a consistent sunny atmosphere, and only bird background noise. Adjusting lighting to reflect different times of day (ike dawn or dusk)  might have made the environment more dynamic and engaging. Additionally adjusting different seasons in the environment and adding sounds that match it (like rain) might have created a more engaging environment for the user.
 
 Scheduling Regular Team Check-ins: While we communicated and collaborated effectively, setting more structured work timelines for our work meetings could have ensured that the process be more smoothe.
 Overall we are happy with our project given that it is our first VR experience and we hope the users of this program enjoy it as well.
