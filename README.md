@@ -26,9 +26,9 @@ User Manual:
      Enjoy the therapeutic effects of the virtual lemon garden.
 
 5. Exiting the Program:
-    To exit, simply remove your VR headset.
+      To exit, simply remove your VR headset.
 
-Safety Note:
+6. Safety Note:
      Ensure ample space around you to avoid accidents.
      Take breaks if you experience discomfort or dizziness.
 
